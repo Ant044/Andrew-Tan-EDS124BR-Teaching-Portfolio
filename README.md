@@ -1,1 +1,2 @@
-Readme
+## Video Explanations
+- "Sequences" Code explanation: 
