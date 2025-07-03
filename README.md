@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="150">
+<td width="450">
   <img src="Images/ID_image_downsized.jpg" alt="Profile" width="150" style="border-radius:10px;">
 </td>
 <td>
@@ -8,5 +8,6 @@
 </td>
 </tr>
 </table>
+
 ## Video Example Assignments 
 - Show What You Know - Explain Your Program: ["Sequences" Code explanation](https://www.youtube.com/watch?v=MnFG8rBwrQA)
