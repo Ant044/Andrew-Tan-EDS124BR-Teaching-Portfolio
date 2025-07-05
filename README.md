@@ -12,3 +12,4 @@
 ## Video Example Assignments 
 - Show What You Know - Explain Your Program (Sequences): ["Sequences" Code explanation](https://www.youtube.com/watch?v=MnFG8rBwrQA)
 - Show What You Know - Explain A Program (Repeats): ["Repeats" Code Explanation](https://www.youtube.com/watch?v=EN5GcgWX3rI)
+- Teaching Programming Portfolio - Lesson Plan: [Animal Parade - Scratch Act 1](https://www.youtube.com/watch?v=zwQYBN1_IcE)
