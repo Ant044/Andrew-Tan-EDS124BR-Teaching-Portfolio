@@ -10,4 +10,5 @@
 </table>
 
 ## Video Example Assignments 
-- Show What You Know - Explain Your Program: ["Sequences" Code explanation](https://www.youtube.com/watch?v=MnFG8rBwrQA)
+- Show What You Know - Explain Your Program (Sequences): ["Sequences" Code explanation](https://www.youtube.com/watch?v=MnFG8rBwrQA)
+- Show What You Know - Explain A Program (Repeats): ["Repeats" Code Explanation](https://www.youtube.com/watch?v=EN5GcgWX3rI)
