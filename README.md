@@ -13,3 +13,4 @@
 - Show What You Know - Explain Your Program (Sequences): ["Sequences" Code explanation](https://www.youtube.com/watch?v=MnFG8rBwrQA)
 - Show What You Know - Explain A Program (Repeats): ["Repeats" Code Explanation](https://www.youtube.com/watch?v=EN5GcgWX3rI)
 - Teaching Programming Portfolio - Lesson Plan: [Animal Parade - Scratch Act 1](https://www.youtube.com/watch?v=H-6wrmXzZs8)
+- Show What You Know - Write and Explain A Program: [Nested Repeats](https://www.youtube.com/watch?v=_TCchITTtQc)
