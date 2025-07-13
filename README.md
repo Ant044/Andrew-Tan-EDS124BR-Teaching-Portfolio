@@ -16,3 +16,4 @@
 - Show What You Know - Write and Explain A Program: [Nested Repeats](https://www.youtube.com/watch?v=_TCchITTtQc)
 - Show What You Know - Write and Explain A Program: [Events](https://www.youtube.com/watch?v=Iu_lKqcjz5k)
 - Show What You Know - Write and Explain A Program: [Variables](https://www.youtube.com/watch?v=mLCekQZbIys)
+- Show What You Know - Write and Explain A Program: [Conditional Repeats](https://www.youtube.com/watch?v=uzH-JPtVdc4)
