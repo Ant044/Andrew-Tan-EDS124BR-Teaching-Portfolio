@@ -18,3 +18,4 @@
 - Show What You Know - Write and Explain A Program: [Variables](https://www.youtube.com/watch?v=mLCekQZbIys)
 - Show What You Know - Write and Explain A Program: [Conditional Repeats](https://www.youtube.com/watch?v=uzH-JPtVdc4)
 - Show What You Know - Write and Explain A Program: [If-Else Statements](https://www.youtube.com/watch?v=ZHWv4ggii0o)
+- Show What You Know - Write and Explain A Program: [Nested If-Else Statements](https://www.youtube.com/watch?v=ePeO5eF4fPk)
